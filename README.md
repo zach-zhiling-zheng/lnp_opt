@@ -1,4 +1,4 @@
-# Lab Automation Suite: Multimodal AI for High-Throughput LNP Optimization
+# Multimodal Large Language Models for High-Throughput LNP Optimization
 
 
 
