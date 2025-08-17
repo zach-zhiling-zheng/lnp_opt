@@ -1,6 +1,6 @@
 # Multimodal Large Language Models for High-Throughput LNP Optimization
 
-
+![LNP Mosaic Logo](data/logo.png)
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository provides an **AI-driven laboratory automation toolkit** for opti
 
 The suite builds on workflows described in the manuscript:  
 **“Discovering High-Performing Lipid–mRNA Nanoparticle with Multimodal AI and Robotic Automation”**  
-(*Yang et al., MIT, 2025*).
+(*Yang et al., 2025*).
 
 ---
 
@@ -131,8 +131,7 @@ lab-automation-suite/
 If you use this toolkit, please cite:
 
 Yang X., Zheng Z., Gao W., Shi Y., Wang E. Y., Huang T., Zhang L., Jensen K. F., Langer R. S., Jaklenec A.  
-**Discovering High-Performing Lipid–mRNA Nanoparticle with Multimodal AI and Robotic Automation**  
-MIT, 2025.
+**Discovering High-Performing Lipid–mRNA Nanoparticle with Multimodal AI and Robotic Automation**  2025.
 
 ---
 
