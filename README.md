@@ -1,6 +1,6 @@
 # Lab Automation Suite: Multimodal AI for High-Throughput LNP Optimization
 
-![LNP.png)
+
 
 ## Overview
 
