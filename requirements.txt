@@ -1,0 +1,32 @@
+# Core
+python-dotenv>=1.0.1
+openai>=1.40.0
+requests>=2.32.3
+
+# Audio
+pyaudio>=0.2.14
+soundfile>=0.12.1
+pygame>=2.6.0
+
+# CV and plotting
+opencv-python>=4.10.0.84
+numpy>=1.26.4
+matplotlib>=3.9.0
+
+# Data tools
+pandas>=2.2.2
+openpyxl>=3.1.5
+
+# Search
+duckduckgo-search>=6.2.13
+
+# Keyboard events
+keyboard>=0.13.5
+
+# Bayesian Optimization
+scikit-learn>=1.5.1
+scikit-optimize>=0.10.2
+edbo-plus>=0.3.3
+
+# GUI
+tk>=0.1.0; platform_system=="Windows"
