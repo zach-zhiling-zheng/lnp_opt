@@ -1,6 +1,6 @@
 # Multimodal Large Language Models for High-Throughput LNP Optimization
 
-![LNP Mosaic Logo](data/logo.png)
+![LNP Mosaic Logo](data/logo-lnp.png)
 
 ## Overview
 
